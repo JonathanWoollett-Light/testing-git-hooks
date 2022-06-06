@@ -1,5 +1,5 @@
 [hooks]
-pre-commit = "sh testing-this.sh"
+pre-commit = "sh pre-commit.sh"
 # pre-commit = """\
 #     cargo fmt --all -- --config \
 #         format_code_in_doc_comments=true,\
