@@ -1,0 +1,7 @@
+as_conversions=true
+map_err_ignore=true
+large_types_passed_by_value=true
+missing_docs_in_private_items=true
+used_underscore_binding=true
+wildcard_dependencies=true
+wildcard_imports=true
